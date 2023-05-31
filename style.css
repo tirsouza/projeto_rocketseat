@@ -42,7 +42,8 @@ body * {
 
 #container {
   /* border: 2px solid red; */
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0;
   padding: 0 24px;
 }
@@ -170,4 +171,3 @@ footer a {
 footer a:hover {
   background-color: var(--highlight-color);
 }
-
