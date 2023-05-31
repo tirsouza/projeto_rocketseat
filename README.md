@@ -17,6 +17,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <br>
+<p align="center"><a href="https://icoffeezin.github.io/projeto_rocketseat/">Visualize o Projeto aqui!</a></p>
+<br>
 
 <p align="center">
   <img alt="projeto DevLinks" src="./assets/discover.jpg" width="100%">
