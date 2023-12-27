@@ -17,7 +17,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <br>
-<p align="center"><a href="https://icoffeezin.github.io/projeto_rocketseat/">Visualize o Projeto aqui!</a></p>
+<p align="center"><a href="https://tirsouza.github.io/projeto_rocketseat/">Visualize o Projeto aqui!</a></p>
 <br>
 
 <p align="center">
